@@ -1,6 +1,6 @@
 ﻿# Deletes crap temp files, created by ChromeDriver
 $sTemp = "scoped_dir" # file mask
-$sTimeout = 1         # minutes to allow temp files to live before delete
+$sTimeout = 15        # minutes to allow temp files to live before delete
 $sEverySeconds = 60   # run every
 
 
